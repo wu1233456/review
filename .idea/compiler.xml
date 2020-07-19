@@ -7,26 +7,56 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="errordemo" />
-        <module name="mybatis-mapper" />
+        <module name="springsecurityLearn" />
+        <module name="springsecuritydemo3" />
+        <module name="springsecuritydemo5" />
+        <module name="springsecuritydemo4" />
         <module name="springsecuritydemo" />
+        <module name="springsecuritydemo2" />
+        <module name="springsecuritydemo1" />
+        <module name="springsecuritydemo6" />
+        <module name="mybatis-mapper" />
+        <module name="springsecuriytdemo1" />
+        <module name="springsecurity" />
+        <module name="errordemo" />
+        <module name="springsecuritydemo8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="demo1" target="1.8" />
       <module name="demo2" target="1.8" />
       <module name="errordemo" target="1.8" />
       <module name="mybatis-mapper" target="1.8" />
+      <module name="springsecurity" target="1.5" />
       <module name="springsecuritydemo" target="1.8" />
+      <module name="springsecuritydemo1" target="1.8" />
+      <module name="springsecuritydemo2" target="1.8" />
+      <module name="springsecuritydemo3" target="1.8" />
+      <module name="springsecuritydemo4" target="1.8" />
+      <module name="springsecuritydemo5" target="1.8" />
+      <module name="springsecuritydemo6" target="1.8" />
+      <module name="springsecuritydemo8" target="1.8" />
+      <module name="springsecurityLearn" target="1.5" />
+      <module name="springsecuriytdemo1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
       <module name="demo1" options="-parameters" />
       <module name="demo2" options="-parameters" />
       <module name="errordemo" options="-parameters" />
       <module name="mybatis-mapper" options="-parameters" />
       <module name="springsecuritydemo" options="-parameters" />
+      <module name="springsecuritydemo1" options="-parameters" />
+      <module name="springsecuritydemo2" options="-parameters" />
+      <module name="springsecuritydemo3" options="-parameters" />
+      <module name="springsecuritydemo4" options="-parameters" />
+      <module name="springsecuritydemo5" options="-parameters" />
+      <module name="springsecuritydemo6" options="-parameters" />
+      <module name="springsecuritydemo8" options="-parameters" />
+      <module name="springsecuriytdemo1" options="-parameters" />
     </option>
   </component>
 </project>

@@ -9,6 +9,14 @@
         <option value="$PROJECT_DIR$/mybatis-mapper/pom.xml" />
         <option value="$PROJECT_DIR$/errordemo/pom.xml" />
         <option value="$PROJECT_DIR$/springsecuritydemo/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuriytdemo1/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuritydemo2/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuritydemo3/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuritydemo4/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuritydemo5/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuritydemo6/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/springsecuritydemo8/pom.xml" />
       </list>
     </option>
   </component>
